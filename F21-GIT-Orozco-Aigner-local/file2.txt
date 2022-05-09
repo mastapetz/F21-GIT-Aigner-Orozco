@@ -1,2 +1,2 @@
-test text
-second line
+one line of text
+new line of text
